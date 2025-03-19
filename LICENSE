@@ -1,21 +1,25 @@
-MIT License
+Copyright (c) 2025 Raphael Barucho
+
+All rights reserved.
+
+Permission is granted, upon prior authorization, to any person obtaining a copy of this software and associated documentation files (the "Software") to use the Software, provided that a formal request is made to the author and the usage is authorized.
+
+The use of the Software without proper authorization is strictly prohibited. If permission is granted, the user may use the Software, including but not limited to the rights to execute, copy, modify, and distribute, as long as the above copyright notice and this license are included in all copies or substantial portions of the Software.
+
+THE AUTHOR IS NOT RESPONSIBLE FOR ANY MISUSE OF THE SOFTWARE. ANY CONSEQUENCES RESULTING FROM THE USE OF THE SOFTWARE ARE THE SOLE RESPONSIBILITY OF THE USER WHO OBTAINED THE COPY.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGE, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+PT-BR
 
 Copyright (c) 2025 Raphael Barucho
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Todos os direitos reservados.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+A permissão é concedida, mediante autorização prévia, a qualquer pessoa que obtenha uma cópia deste software e dos arquivos de documentação associados (o "Software"), para usar o Software, desde que seja feita uma solicitação formal ao autor e a utilização seja autorizada.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Fica vedado o uso do Software sem a devida autorização do autor. Caso seja concedida a permissão, o usuário poderá utilizar o Software, incluindo, sem limitação, os direitos de executar, copiar, modificar e distribuir, desde que mantenha o aviso de copyright acima e esta licença em todas as cópias ou partes substanciais do Software.
+
+O AUTOR NÃO SE RESPONSABILIZA POR QUALQUER USO INDEVIDO DO SOFTWARE. TODA E QUALQUER CONSEQUÊNCIA DECORRENTE DO USO DO SOFTWARE É DE TOTAL RESPONSABILIDADE DO USUÁRIO QUE OBTEVE A CÓPIA.
+
+O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM NENHUMA HIPÓTESE O AUTOR SERÁ RESPONSÁVEL POR QUALQUER RECLAMAÇÃO, DANO OU OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO CONTRATUAL, CIVIL OU DE OUTRA FORMA, DECORRENTE DE, FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO SOFTWARE.
