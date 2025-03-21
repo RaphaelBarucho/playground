@@ -1,0 +1,16 @@
+{
+  "name": "notepad-rb",
+  "version": "0.0.1",
+  "description": "um simples bloco de notas",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev": "node main.js"
+  },
+  "author": "RaphaelBaruho",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^35.0.2"
+  }
+}
